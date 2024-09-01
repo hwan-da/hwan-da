@@ -17,6 +17,12 @@
 
 <br>
 
+<p><b>My Notion</b></p>
+<a href="https://www.notion.so/6265805d008446288024e73c8cbc6e3c"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> </a>
+
+<br>
+<br>
+
 <p><b>skills</b></p>
 <table>
   <tr>
