@@ -12,7 +12,7 @@
 <p align='center'>
   ✔ SWEATER <a href="https://github.com/hwan-da/sweater">[SWEATER]</a><br>
   ✔ SO-GO <br>
-  ✔ POPPIN <br>
+  ✔ POPPIN <a href="https://github.com/hwan-da/poppin">[POPPIN]</a><br>
 </p>
 
 <br>
