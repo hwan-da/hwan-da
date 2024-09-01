@@ -1,13 +1,23 @@
 <div align="center">
 
-<p align='center'><b>안녕하세요, 개발이 재밌는 백엔드 개발자 최다환입니다.</b></p>
+<h1 align='center'><b>👍 Hi! I'm dahwan, the developer of the backend </b></h1>
+
+<p><b>profile</b></p>
 <p align='center'>
   ✔ SSAFY 11기 <br>
   ✔ 국어국문학과 전공 <br>
 </p>
 
+<p><b>projects</b></p>
+<p align='center'>
+  ✔ SWEATER <a href="https://github.com/hwan-da/sweater">[SWEATER]</a><br>
+  ✔ SO-GO <br>
+  ✔ POPPIN <br>
+</p>
+
 <br>
 
+<p><b>skills</b></p>
 <table>
   <tr>
     <td>
