@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align='center'><b>👍 Hi! I'm dahwan, the developer of the backend </b></h1>
+<h1 align='center'><b>👍 Hi! I'm the developer of the backend </b></h1>
 
 <p><b>profile</b></p>
 <p align='center'>
