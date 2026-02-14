@@ -6,6 +6,7 @@
 <p align='center'>
   ✔ SSAFY 11기 <br>
   ✔ 국어국문학과 전공 <br>
+  ✔ 농협중앙회 IT <br>
 </p>
 
 <p><b>projects</b></p>
@@ -13,6 +14,7 @@
   ✔ SWEATER <a href="https://github.com/hwan-da/sweater">[SWEATER]</a><br>
   ✔ SO-GO <br>
   ✔ POPPIN <a href="https://github.com/hwan-da/poppin">[POPPIN]</a><br>
+  ✔ DDubok <br>
 </p>
 
 <br>
